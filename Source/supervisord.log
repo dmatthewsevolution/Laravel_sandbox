@@ -84,3 +84,10 @@
 2021-12-08 22:05:50,908 INFO spawned: 'php-fpm' with pid 8
 2021-12-08 22:05:51,945 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
 2021-12-08 22:05:51,950 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-12-08 22:08:31,695 INFO Set uid to user 0 succeeded
+2021-12-08 22:08:31,704 INFO supervisord started with pid 1
+2021-12-08 22:08:32,712 INFO spawned: 'nginx' with pid 8
+2021-12-08 22:08:32,729 INFO spawned: 'php-fpm' with pid 9
+2021-12-08 22:08:33,823 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-12-08 22:08:33,827 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-12-08 22:10:42,987 INFO reaped unknown pid 131 (exit status 0)
