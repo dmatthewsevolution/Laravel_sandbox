@@ -1,0 +1,1 @@
+docker exec -it development_slim_api_1 /bin/ash

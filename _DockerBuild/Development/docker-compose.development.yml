@@ -1,0 +1,10 @@
+version: '3.7'
+services:
+    lavael_docker_proof_of_concept:
+        build: .
+        ports:
+            - "9091:80"
+        volumes:
+            - C:\Projects\LaravelPOC\Source:/var/www/
+        env_file:
+            - ./settings.env
