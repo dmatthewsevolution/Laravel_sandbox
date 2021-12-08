@@ -1,6 +1,6 @@
 version: '3.7'
 services:
-    lavael_docker_proof_of_concept:
+    lavael_sandbox:
         build: .
         ports:
             - "9091:80"
