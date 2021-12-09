@@ -1,4 +1,4 @@
-FROM alpine:3.14
+FROM php:8.0-fpm-alpine3.14
 
 #---------------------
 # Package Management
